@@ -1,3 +1,5 @@
 ADVANCE JS
 dom
 
+
+localStorage
