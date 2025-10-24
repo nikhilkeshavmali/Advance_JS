@@ -1,5 +1,2 @@
 ADVANCE JS
-dom
-
-
-localStorage
+do
