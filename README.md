@@ -1,3 +1,3 @@
 advance js
 
-localhost
+local storage 
