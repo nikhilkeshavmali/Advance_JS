@@ -1,5 +1,1 @@
-advance js
-
-local storage 
-
 
